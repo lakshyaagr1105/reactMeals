@@ -31,4 +31,9 @@ To deploy this project run
 ```
 
 ## Screenshot
+<h1> App </h1>
 
+![](https://github.com/lakshyaagr1105/reactMeals/blob/main/reactMeals/public/reactMeals.png)
+<h1> Cart </h1>
+
+![](https://github.com/lakshyaagr1105/reactMeals/blob/main/reactMeals/public/cart.png)
