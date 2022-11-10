@@ -36,4 +36,4 @@ To deploy this project run
 ![](https://github.com/lakshyaagr1105/reactMeals/blob/main/public/reactMeals.png)
 <h1> Cart </h1>
 
-![](https://github.com/lakshyaagr1105/reactMeals/blob/main/reactMeals/public/cart.png)
+![](https://github.com/lakshyaagr1105/reactMeals/blob/main/public/cart.png)
